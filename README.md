@@ -10,7 +10,7 @@
 
 <li>Add External Jar to Classpath for H2 driver
 <ul>
-<li>Via Spring IDE, right click on 'Referenced Libraries' > Bulid Path > Configure Build Path...</li>
+<li>Via Spring IDE, right click on Project > Bulid Path > Configure Build Path...</li>
 <kbd><img src="Pic0A.PNG" width="500" /></kbd><br/><br/>
 <li>Via Properties window, select 'classpath' and add external jar 'lib\h2-2.2.220.jar'</li>
 <kbd><img src="Pic0B.PNG" width="500" /></kbd><br/>
