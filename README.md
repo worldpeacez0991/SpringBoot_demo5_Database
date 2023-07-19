@@ -34,8 +34,11 @@
 <kbd><img src="Pic1.PNG" width="500" /></kbd><br/>
 <kbd><img src="Pic2.PNG" width="500" /></kbd><br/>
 
+<br/>
 
-
+<li>When Spring Boot Application starts, SQL Data is loaded with this file 'src\main\resources\data.sql'
+<br/>In H2 console, you will see that 'COUNTRIES' is loaded with SQL Data.
+</li><br/>
 <kbd><img src="Pic3.PNG" width="500" /></kbd><br/>
 </ul>
 </li>
