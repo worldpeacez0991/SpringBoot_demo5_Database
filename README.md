@@ -21,7 +21,7 @@
 
 <li>Edit file 'application.properties' 
 <br/>(My %USERNAME% is USER1, you may edit this folder path to any folder where you have enough permissions )
-<br/>***Note that this folder path will have to match with the steps for 'http://localhost:8080/h2-console' later.
+<br/>***Note that this folder path will have to match with the 'JDBC URL' for 'http://localhost:8080/h2-console' later.
 <p>spring.datasource.url=jdbc:h2:file:C:\\Users\\USER1\\H2_DB</p>
 </li>
 
